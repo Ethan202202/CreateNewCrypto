@@ -13,3 +13,11 @@
 ![coin address to deploy](https://user-images.githubusercontent.com/99513782/180338421-eed28194-0160-489c-a832-ce5984c09279.png)
 ## Add crowdsale address. The exchange rate is 1 and no wei has raised yet.
 ![crowdsale address to deploy](https://user-images.githubusercontent.com/99513782/180338429-e3602770-e365-4560-99aa-35e99fccc6ec.png)
+## 0xbFEE862322d4b0aC10d8b858E83A38fb1c0290b1 buys 200 tokens. The weiRaised increase to 200. 
+![Buy 200 wei token](https://user-images.githubusercontent.com/99513782/180341309-1a683ab7-adec-414e-b220-1b67ead73e56.png)
+## Token purchase confirmation and gas fee.
+![200wei confirmation from metamask](https://user-images.githubusercontent.com/99513782/180341319-22771baf-96c6-4c16-8749-c5539eae4c74.png)
+## 0xbFEE862322d4b0aC10d8b858E83A38fb1c0290b1 Kasei coin account balance is 200 now. Total supply of the coin is also 200.
+![token balance 200](https://user-images.githubusercontent.com/99513782/180341328-f62d9402-f561-4dc8-98a0-32072adcbaec.png)
+## There are 2 transactions in ganache.
+![2 transactions in ganache](https://user-images.githubusercontent.com/99513782/180341333-e843f1e0-cc6b-4377-8af0-d46a137257fc.png)
